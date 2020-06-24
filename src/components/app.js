@@ -5,6 +5,7 @@ export default class App extends Component {
     return (
       <div className='app'>
         <h1>Mask4ALL</h1>
+        
       </div>
     );
   }
